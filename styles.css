@@ -1416,13 +1416,13 @@ footer {
 .Incripcion_seccion {
   background-color: rgba(205, 243, 236, 0.945);
   margin-top: 10px;
-  padding: 130px 50px 50px 50px;
+  padding: 130px 50px 130px 50px;
 }
 .Container_Inscripcion {
   width: 45%;
   margin: auto;
   background-color: rgb(222, 248, 183);
-  padding: 50px 20px 20px 20px;
+  padding: 20px;
   border-radius: 10px;
 }
 form fieldset {
